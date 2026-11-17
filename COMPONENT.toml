@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-upgrade"
-description = "SigmaOS subsystem component for upgrade"
+description = "Major-release upgrade assistant"
 version = "0.1.0"
 tier = 3
 
